@@ -1,2 +1,2 @@
-prir_voltmeter
-==============
+Voltmeter simulator
+===================
